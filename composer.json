@@ -28,7 +28,9 @@
     "symfony/process":
     "~3.2.0",
     "symfony/finder":
-    "~3.2.0"
+    "~3.2.0",
+    "slim/logger":
+    "*"
 
   },
   "autoload": {
