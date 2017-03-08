@@ -30,7 +30,8 @@ defmodule Passport.Mixfile do
   defp deps do
     [
       {:phoenix, "~> 1.3.0-rc"},
-      {:comeonin, "~> 3.0"}
+      {:comeonin, "~> 3.0"},
+      {:metal, "~> 0.1.0"}
     ]
   end
 end
